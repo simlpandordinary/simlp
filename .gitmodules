@@ -1,0 +1,4 @@
+[submodule "ComfyUI"]
+	path = ComfyUI
+	url = https://github.com/Comfy-Org/ComfyUI.git
+	branch = master
